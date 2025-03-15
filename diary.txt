@@ -1,0 +1,2 @@
+今天收到了三条骚扰电话.
+& D:/Nikkei/Python313/python.exe d:/Users/Administrator/Desktop/Python/python_basic_practice/pb08_modules.py
