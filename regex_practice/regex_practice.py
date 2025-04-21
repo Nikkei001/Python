@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 # 指定 Excel 文件路径
-file_path = 'd:/Users/Administrator/Desktop/临时计算/20250113产品零件问题次数统计/12月客诉整理_副本.xlsx'  # 替换为你的 Excel 文件路径
+file_path = 'd:/Users/Administrator/Desktop/临时计算/20250113产品零件问题次数统计/12月客诉整理.xlsx'  # 替换为你的 Excel 文件路径
 # 读取 Excel 文件
 df = pd.read_excel(file_path, sheet_name='原始数据')
 # 打印读取的数据（可选）
